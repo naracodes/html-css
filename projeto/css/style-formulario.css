@@ -75,6 +75,10 @@ fieldset.grupo .campo {
     width: 15em;
 }
 
+.campo input[type="email"] {
+    width: 32em;
+}
+
 .campo textarea {
     padding: 0.2em;
     border: 1px solid #59429D;
